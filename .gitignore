@@ -1,0 +1,17 @@
+# Environment secrets
+.env
+
+# Temporary workbench files (intermediates)
+.tmp/*
+!.tmp/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
